@@ -1,0 +1,14 @@
+﻿  BusIncidence.cpp
+C:\Users\mateo\Desktop\Feskto\Faks\Završni rad - Računarstvo\04_Program\Završni\BusIncidence.cpp(4,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mateo\Desktop\Feskto\Faks\Završni rad - Računarstvo\04_Program\Završni\BusIncidence.cpp(5,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mateo\Desktop\Feskto\Faks\Završni rad - Računarstvo\04_Program\Završni\BusIncidence.cpp(23,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mateo\Desktop\Feskto\Faks\Završni rad - Računarstvo\04_Program\Završni\BusIncidence.cpp(24,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Element.cpp
+  ElementNodeIncidence.cpp
+  Main.cpp
+  Resistor.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 275 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Završni.vcxproj -> C:\Users\mateo\Desktop\Feskto\Faks\Završni rad - Računarstvo\04_Program\Završni\x64\Release\Završni.exe
